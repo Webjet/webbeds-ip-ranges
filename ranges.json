@@ -5,47 +5,86 @@
         {
             "ip_prefix": "52.18.145.4/32",
             "region": "europe",
-            "brand": "dotw"
+            "brand": "dotw",
+            "dc": 1
         },
         {
             "ip_prefix": "34.248.50.246/32",
             "region": "europe",
-            "brand": "dotw"
+            "brand": "dotw",
+            "dc": 1
         },
         {
             "ip_prefix": "52.18.146.11/32",
             "region": "europe",
-            "brand": "dotw"
+            "brand": "dotw",
+            "dc": 1
         },
         {
             "ip_prefix": "52.212.82.117/32",
             "region": "europe",
-            "brand": "dotw"
+            "brand": "dotw",
+            "dc": 1
         },
         {
             "ip_prefix": "63.33.254.29/32",
             "region": "europe",
-            "brand": "dotw"
+            "brand": "dotw",
+            "dc": 1
         },
         {
             "ip_prefix": "52.211.41.144/32",
             "region": "europe",
-            "brand": "dotw"
+            "brand": "dotw",
+            "dc": 1
         },
         {
             "ip_prefix": "81.93.148.128/25",
             "region": "europe",
-            "brand": "sunhotels"
+            "brand": "sunhotels",
+            "dc": 1
         },
         {
             "ip_prefix": "81.93.153.21/32",
             "region": "europe",
-            "brand": "sunhotels"
+            "brand": "sunhotels",
+            "dc": 1
         },
         {
             "ip_prefix": "81.93.140.12/32",
             "region": "europe",
-            "brand": "sunhotels"
+            "brand": "sunhotels",
+            "dc": 1
+        },
+        {
+            "ip_prefix": "52.19.164.215/32",
+            "region": "europe",
+            "brand": "sunhotels",
+            "dc": 2
+        },
+        {
+            "ip_prefix": "52.215.137.107/32",
+            "region": "europe",
+            "brand": "sunhotels",
+            "dc": 2
+        },
+        {
+            "ip_prefix": "34.255.19.18/32",
+            "region": "europe",
+            "brand": "sunhotels",
+            "dc": 2
+        },
+        {
+            "ip_prefix": "34.248.138.232/32",
+            "region": "europe",
+            "brand": "sunhotels",
+            "dc": 2
+        },
+        {
+            "ip_prefix": "52.51.224.50/32",
+            "region": "europe",
+            "brand": "sunhotels",
+            "dc": 2
         }
     ]
 }
