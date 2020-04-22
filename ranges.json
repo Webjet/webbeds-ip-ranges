@@ -31,6 +31,21 @@
             "ip_prefix": "52.211.41.144/32",
             "region": "europe",
             "brand": "dotw"
+        },
+        {
+            "ip_prefix": "81.93.148.128/25",
+            "region": "europe",
+            "brand": "sunhotels"
+        },
+        {
+            "ip_prefix": "81.93.153.21/32",
+            "region": "europe",
+            "brand": "sunhotels"
+        },
+        {
+            "ip_prefix": "81.93.140.12/32",
+            "region": "europe",
+            "brand": "sunhotels"
         }
     ]
 }
