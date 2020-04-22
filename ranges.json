@@ -1,0 +1,36 @@
+{
+    "syncToken": "1587556160153",
+    "createDate": "2020-04-22-11-49-34",
+    "prefixes": [
+        {
+            "ip_prefix": "52.18.145.4/32",
+            "region": "europe",
+            "brand": "dotw"
+        },
+        {
+            "ip_prefix": "34.248.50.246/32",
+            "region": "europe",
+            "brand": "dotw"
+        },
+        {
+            "ip_prefix": "52.18.146.11/32",
+            "region": "europe",
+            "brand": "dotw"
+        },
+        {
+            "ip_prefix": "52.212.82.117/32",
+            "region": "europe",
+            "brand": "dotw"
+        },
+        {
+            "ip_prefix": "63.33.254.29/32",
+            "region": "europe",
+            "brand": "dotw"
+        },
+        {
+            "ip_prefix": "52.211.41.144/32",
+            "region": "europe",
+            "brand": "dotw"
+        }
+    ]
+}
