@@ -87,6 +87,66 @@
             "dc": 2
         },
         {
+            "ip_prefix": "52.187.72.253/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "13.67.91.4/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "13.67.40.97/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "13.76.90.72/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "13.76.253.120/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "13.76.178.43/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "104.215.186.126/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "104.215.187.65/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "20.184.27.151/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
+            "ip_prefix": "52.163.222.91/32",
+            "region": "asia",
+            "brand": "sunhotels",
+            "dc": 3
+        },
+        {
             "ip_prefix": "162.13.251.222/32",
             "region": "europe",
             "brand": "jac",
