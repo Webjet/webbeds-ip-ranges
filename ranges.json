@@ -85,6 +85,30 @@
             "region": "europe",
             "brand": "sunhotels",
             "dc": 2
+        },
+        {
+            "ip_prefix": "162.13.251.222/32",
+            "region": "europe",
+            "brand": "jac",
+            "dc": 1
+        },
+        {
+            "ip_prefix": "162.13.251.223/32",
+            "region": "europe",
+            "brand": "jac",
+            "dc": 1
+        },
+        {
+            "ip_prefix": "213.161.88.32/27",
+            "region": "europe",
+            "brand": "jac",
+            "dc": 2
+        },
+        {
+            "ip_prefix": "161.12.48.0/26",
+            "region": "europe",
+            "brand": "jac",
+            "dc": 2
         }
     ]
 }
