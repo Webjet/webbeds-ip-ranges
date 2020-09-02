@@ -217,6 +217,36 @@
             "region": "europe",
             "brand": "webbeds",
             "dc": 5
+        },
+        {
+            "ip_prefix": "168.63.62.222",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 6
+        },
+        {
+            "ip_prefix": "13.73.167.115",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 7
+        },
+        {
+            "ip_prefix": "40.68.120.88",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 8
+        },
+        {
+            "ip_prefix": "13.74.177.242",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 9
+        },
+        {
+            "ip_prefix": "51.138.82.142",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 10
         }
     ]
 }
