@@ -1,6 +1,6 @@
 {
-    "syncToken": "1587556160153",
-    "createDate": "2020-04-22-11-49-34",
+    "syncToken": "1599052657807",
+    "createDate": "2020-09-02-15:16:13",
     "prefixes": [
         {
             "ip_prefix": "52.18.145.4/32",
@@ -169,6 +169,54 @@
             "region": "europe",
             "brand": "jac",
             "dc": 2
+        },
+        {
+            "ip_prefix": "52.155.236.6/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 4
+        },
+        {
+            "ip_prefix": "40.67.248.77/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 4
+        },
+        {
+            "ip_prefix": "40.67.251.237/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 4
+        },
+        {
+            "ip_prefix": "52.142.115.243/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 4
+        },
+        {
+            "ip_prefix": "51.105.226.114/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 5
+        },
+        {
+            "ip_prefix": "51.105.225.0/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 5
+        },
+        {
+            "ip_prefix": "51.105.225.7/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 5
+        },
+        {
+            "ip_prefix": "51.105.225.3/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 5
         }
     ]
 }
