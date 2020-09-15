@@ -247,6 +247,12 @@
             "region": "europe",
             "brand": "webbeds",
             "dc": 10
+        },
+        {
+            "ip_prefix": "89.140.187.0/24",
+            "region": "europe",
+            "brand": "webbeds",
+            "dc": 11
         }
     ]
 }
