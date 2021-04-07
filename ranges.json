@@ -104,7 +104,7 @@
             "ip_prefix": "46.137.3.38/32",
             "region": "europe",
             "brand": "sunhotels",
-            "environment": "",
+            "environment": "prod",
             "dc": 2
         },
         {
