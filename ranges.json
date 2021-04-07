@@ -181,14 +181,14 @@
             "ip_prefix": "162.13.251.222/32",
             "region": "europe",
             "brand": "jac",
-            "environment": "",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "162.13.251.223/32",
             "region": "europe",
             "brand": "jac",
-            "environment": "",
+            "environment": "prod",
             "dc": 1
         },
         {
