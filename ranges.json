@@ -6,258 +6,301 @@
             "ip_prefix": "52.18.145.4/32",
             "region": "europe",
             "brand": "dotw",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "34.248.50.246/32",
             "region": "europe",
             "brand": "dotw",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "52.18.146.11/32",
             "region": "europe",
             "brand": "dotw",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "52.212.82.117/32",
             "region": "europe",
             "brand": "dotw",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "63.33.254.29/32",
             "region": "europe",
             "brand": "dotw",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "52.211.41.144/32",
             "region": "europe",
             "brand": "dotw",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "81.93.148.128/25",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "81.93.153.21/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "81.93.140.12/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 1
         },
         {
             "ip_prefix": "52.19.164.215/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "52.215.137.107/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "34.255.19.18/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "34.248.138.232/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "52.51.224.50/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "46.137.3.38/32",
             "region": "europe",
             "brand": "sunhotels",
+            "environment": "",
             "dc": 2
         },
         {
             "ip_prefix": "52.187.72.253/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "13.67.91.4/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "13.67.40.97/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "13.76.90.72/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "13.76.253.120/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "13.76.178.43/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "104.215.186.126/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "104.215.187.65/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "20.184.27.151/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "52.163.222.91/32",
             "region": "asia",
             "brand": "sunhotels",
+            "environment": "prod",
             "dc": 3
         },
         {
             "ip_prefix": "162.13.251.222/32",
             "region": "europe",
             "brand": "jac",
+            "environment": "",
             "dc": 1
         },
         {
             "ip_prefix": "162.13.251.223/32",
             "region": "europe",
             "brand": "jac",
+            "environment": "",
             "dc": 1
         },
         {
             "ip_prefix": "213.161.88.32/27",
             "region": "europe",
             "brand": "jac",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "161.12.48.0/26",
             "region": "europe",
             "brand": "jac",
+            "environment": "prod",
             "dc": 2
         },
         {
             "ip_prefix": "52.155.236.6/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 4
         },
         {
             "ip_prefix": "40.67.248.77/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 4
         },
         {
             "ip_prefix": "40.67.251.237/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 4
         },
         {
             "ip_prefix": "52.142.115.243/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 4
         },
         {
             "ip_prefix": "51.105.226.114/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 5
         },
         {
             "ip_prefix": "51.105.225.0/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 5
         },
         {
             "ip_prefix": "51.105.225.7/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 5
         },
         {
             "ip_prefix": "51.105.225.3/32",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 5
         },
         {
             "ip_prefix": "168.63.62.222",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "dev",
             "dc": 6
         },
         {
             "ip_prefix": "13.73.167.115",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "dev",
             "dc": 7
         },
         {
             "ip_prefix": "40.68.120.88",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 8
         },
         {
             "ip_prefix": "13.74.177.242",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "prod",
             "dc": 9
         },
         {
             "ip_prefix": "51.138.82.142",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "dev",
             "dc": 10
         },
         {
             "ip_prefix": "89.140.187.0/24",
             "region": "europe",
             "brand": "webbeds",
+            "environment": "dev",
             "dc": 11
         }
     ]
