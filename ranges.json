@@ -302,6 +302,27 @@
             "brand": "webbeds",
             "environment": "dev",
             "dc": 11
+        },
+        {
+            "ip_prefix": "34.248.67.193/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "dev",
+            "dc": 12
+        },
+        {
+            "ip_prefix": "34.255.154.79/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "dev",
+            "dc": 12
+        },
+        {
+            "ip_prefix": "34.246.219.182/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "dev",
+            "dc": 12
         }
     ]
 }
