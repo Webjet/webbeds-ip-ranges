@@ -1,6 +1,6 @@
 {
-    "syncToken": "1599052657807",
-    "createDate": "2020-09-02-15:16:13",
+    "syncToken": "2591052887892",
+    "createDate": "2022-02-11-18:15:00",
     "prefixes": [
         {
             "ip_prefix": "52.18.145.4/32",
@@ -323,6 +323,118 @@
             "brand": "webbeds",
             "environment": "dev",
             "dc": 12
+        },
+        {
+            "ip_prefix": "79.125.40.88/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "52.16.167.160/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "54.78.46.227/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "52.49.6.216/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "34.252.151.229/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "34.255.149.36/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "108.129.66.246/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "176.34.125.17/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "79.125.91.14/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "99.81.137.52/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "54.220.78.222/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "52.215.122.35/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "46.137.124.119/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "34.246.2.219/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "52.30.129.206/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
+        },
+        {
+            "ip_prefix": "54.228.43.44/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod",
+            "dc": 13
         }
     ]
 }
