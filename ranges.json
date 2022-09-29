@@ -45,27 +45,6 @@
             "dc": 1
         },
         {
-            "ip_prefix": "81.93.148.128/25",
-            "region": "europe",
-            "brand": "sunhotels",
-            "environment": "prod",
-            "dc": 1
-        },
-        {
-            "ip_prefix": "81.93.153.21/32",
-            "region": "europe",
-            "brand": "sunhotels",
-            "environment": "prod",
-            "dc": 1
-        },
-        {
-            "ip_prefix": "81.93.140.12/32",
-            "region": "europe",
-            "brand": "sunhotels",
-            "environment": "prod",
-            "dc": 1
-        },
-        {
             "ip_prefix": "52.19.164.215/32",
             "region": "europe",
             "brand": "sunhotels",
@@ -190,20 +169,6 @@
             "brand": "jac",
             "environment": "prod",
             "dc": 1
-        },
-        {
-            "ip_prefix": "213.161.88.32/27",
-            "region": "europe",
-            "brand": "jac",
-            "environment": "prod",
-            "dc": 2
-        },
-        {
-            "ip_prefix": "161.12.48.0/26",
-            "region": "europe",
-            "brand": "jac",
-            "environment": "prod",
-            "dc": 2
         },
         {
             "ip_prefix": "52.155.236.6/32",
