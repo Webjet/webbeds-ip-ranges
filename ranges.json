@@ -59,6 +59,13 @@
             "dc": 2
         },
         {
+            "ip_prefix": "54.78.245.245/32",
+            "region": "europe",
+            "brand": "sunhotels",
+            "environment": "prod",
+            "dc": 2
+        },
+        {
             "ip_prefix": "34.255.19.18/32",
             "region": "europe",
             "brand": "sunhotels",
