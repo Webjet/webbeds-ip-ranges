@@ -346,6 +346,16 @@
             "environment": "dev",
             "dc": 13
             
+        },
+
+        {
+            "ip_prefix": "34.249.59.55/32",
+            "region": "europe",
+            "brand": "dotw",
+            "environment": "dev",
+            "dc": 13
+            
         }
+        
     ]
 }
